@@ -1,0 +1,10 @@
+- tela de login;
+
+- tela principal(administrador):
+
+	- menu para adicionar itens, visualizar estoque, criar conta de caixa:
+		-- itens devem ter quantidade valor por quantidade tipo de unidade(ex.: Und,l,ml,Kg) e uma ou mais fotos;
+
+	- deve abrir como padrao uma tela de venda, onde sera possivel realizar uma venda de um ou mais produtos com valor total (e a possibilidade de gerar a Nfe, e boleto futuramente)
+	- a tela de venda deve ter acesso com conta de caixa (login interno).
+
